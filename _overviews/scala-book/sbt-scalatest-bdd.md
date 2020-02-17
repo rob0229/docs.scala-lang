@@ -46,7 +46,7 @@ package simpletest
 
 import org.scalatest.FunSpec
 
-class MathUtilsSpec extends FunSpec {
+class MathUtilsTests extends FunSpec {
   
     describe("MathUtils::double") {
 
